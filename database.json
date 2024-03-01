@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "dsProduto": "Product001",
+      "dsCategoria": "Categoria 01",
+      "cdProduto": "0001",
+      "vlProduto": 10.4,
+      "dtCadastro": "2024-02-26T21:46:00",
+      "qtdProduto": 1000
+    }
+  ]
+}
